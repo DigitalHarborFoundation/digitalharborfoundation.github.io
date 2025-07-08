@@ -1,2 +1,1 @@
-# digitalharborfoundation.github.io
-Redirect to homepage.
+This repository exists to create a redirect to <https://digitalharbor.org/>
